@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "df5a4ba0-4c46-426d-a8df-f56f629907b7",
+    "name": "Randy Konopelski",
+    "phone": "1-419-744-1032 x272",
+    "email": "Timothy40@yahoo.com",
+    "job": "Chief Data Facilitator"
+  },
+  {
+    "id": "71ec8cb3-d2c9-4f87-95cb-be0f1a060728",
+    "name": "Kendra Hammes",
+    "phone": "(779) 537-2695 x253",
+    "email": "Manuel60@yahoo.com",
+    "job": "National Paradigm Manager"
+  },
+  {
+    "id": "fdea8af4-6071-4368-912e-98067ea5b0e1",
+    "name": "Darrel Russel",
+    "phone": "1-493-694-7036 x7375",
+    "email": "Lysanne.Koss38@hotmail.com",
+    "job": "Future Data Officer"
+  },
+  {
+    "id": "25bbcc24-9547-45ab-998a-aa08a9ee1e18",
+    "name": "Sophie Pollich",
+    "phone": "1-893-352-9992 x60289",
+    "email": "Katelyn80@gmail.com",
+    "job": "Dynamic Solutions Executive"
+  }
+]
